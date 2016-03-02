@@ -1,5 +1,4 @@
-layout_spectrum: 0.001792115
-typography_spectrum: 0.5143369
+layout_spectrum: 0.349828
 color:
   saturation: 0.6195685
   lightness: 0.3234282
@@ -11,4 +10,5 @@ color:
     - '#A2BDD1'
     - '#5C6E77'
   rhythmicContrast: 0.3771102
+typography_spectrum: 0.5143369
 name: Madi
