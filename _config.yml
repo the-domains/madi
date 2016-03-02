@@ -1,0 +1,14 @@
+layout_spectrum: 0.001792115
+typography_spectrum: 0.5143369
+color:
+  saturation: 0.6195685
+  lightness: 0.3234282
+  brandStrength: 0.4946237
+  brandColors:
+    - '#FFFFFF'
+    - '#1F1E1F'
+    - '#BC9B91'
+    - '#A2BDD1'
+    - '#5C6E77'
+  rhythmicContrast: 0.3771102
+name: Madi
